@@ -82,3 +82,12 @@ salary, the minimum salary, and the average salary in this department.
 (use NOT EXISTS operator).
 5. For each department that has more than five employees, retrieve the department number and the number 
 of its employees who are making more than Rs. 6,00,000.
+
+- Name : HARSHITHA M R
+- USN: 4MH21CS034
+- Faculty name: Victor Ikechukwu Agughasi
+
+## Contributer
+[Victor Ikechukwu Agughasi](https://github.com/Victor-Ikechukwu )
+
+[Harshitha M R](https://github.com/harshithagowdamr)
